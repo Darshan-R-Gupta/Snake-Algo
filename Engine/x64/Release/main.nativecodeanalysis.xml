@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\my c++ projects\high level projects\snake game\engine\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Inconsistent annotation for 'wWinMain': this instance has no annotations. See c:\program files (x86)\windows kits\8.1\include\um\winbase.h(918). </DESCRIPTION>
+    <FUNCTION>wWinMain</FUNCTION>
+    <DECORATED>wWinMain</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
