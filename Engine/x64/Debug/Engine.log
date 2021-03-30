@@ -1,18 +1,13 @@
-﻿  compilation header save succeeded; see F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\FramebufferPS.shh
-  compilation header save succeeded; see F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\FramebufferVS.shh
-  Board.cpp
-  DXErr.cpp
+﻿  Board.cpp
   Game.cpp
   Goal.cpp
   Graphics.cpp
-  Keyboard.cpp
   Main.cpp
   MainWindow.cpp
-  Mouse.cpp
   Snake.cpp
   SpriteCodex.cpp
-F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\Game.cpp(220,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\Game.cpp(222,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\Game.cpp(837,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-F:\My_projects\C++ Projects\GUI projects\Snake AI\Engine\Game.cpp(838,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  Engine.vcxproj -> F:\My_projects\C++ Projects\GUI projects\Snake AI\x64\Debug\Engine.exe
+F:\My_projects\C++ Projects\GUI projects\Snake Algo\Snake-Algo\Engine\Game.cpp(220,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\My_projects\C++ Projects\GUI projects\Snake Algo\Snake-Algo\Engine\Game.cpp(222,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\My_projects\C++ Projects\GUI projects\Snake Algo\Snake-Algo\Engine\Game.cpp(837,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\My_projects\C++ Projects\GUI projects\Snake Algo\Snake-Algo\Engine\Game.cpp(838,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Engine.vcxproj -> F:\My_projects\C++ Projects\GUI projects\Snake Algo\Snake-Algo\x64\Debug\Engine.exe
